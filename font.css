@@ -1,0 +1,49 @@
+@font-face{
+	font-family: Be1; 
+	src: url('fonts/Bellota/Bellota-Bold.ttf') ;
+}
+@font-face{
+	font-family: Be2; 
+	src: url('fonts/Bellota/Bellota-BoldItalic.ttf') ;
+}
+@font-face{
+	font-family: Be3; 
+	src: url('fonts/Bellota/Bellota-Italic.ttf') ;
+}
+@font-face{
+	font-family: Be4; 
+	src: url('fonts/Bellota/Bellota-Light.ttf') ;
+}
+@font-face{
+	font-family: Be5; 
+	src: url('fonts/Bellota/Bellota-LightItalic.ttf') ;
+}
+@font-face{
+	font-family: Be6; 
+	src: url('fonts/Bellota/Bellota-Regular.ttf') ;
+}
+@font-face{
+	font-family: Q1; 
+	src: url('fonts/Quicksand/static/Quicksand-Light.ttf') ;
+}
+@font-face{
+	font-family: Q2; 
+	src: url('fonts/Quicksand/static/Quicksand-Medium.ttf') ;
+}
+@font-face{
+	font-family: Q3; 
+	src: url('fonts/Quicksand/static/Quicksand-Regular.ttf') ;
+}
+@font-face{
+	font-family: Q4; 
+	src: url('fonts/Quicksand/static/Quicksand-SemiBold.ttf') ;
+}
+@font-face{
+	font-family: Q5; 
+	src: url('fonts/Quicksand/static/Quicksand-Bold.ttf') ;
+}
+@font-face{
+	font-family: S1; 
+	src: url('fonts/Shadow_Into_Light/ShadowsIntoLight-Regular.ttf') ;
+}
+
